@@ -44,6 +44,9 @@
       ],
       "@testgen-eighteen/data-models": [
         "libs/data-models/src/index.ts"
+      ],
+      "@testgen-eighteen/common/common-environment": [
+        "libs/common/common-environment/src/index.ts"
       ]
     }
   },
