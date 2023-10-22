@@ -20,6 +20,9 @@
     "paths": {
       "@testgen-eighteen/common/styles": [
         "libs/common/styles/src/index.ts"
+      ],
+      "@testgen-eighteen/common/ui": [
+        "libs/common/ui/src/index.ts"
       ]
     }
   },
