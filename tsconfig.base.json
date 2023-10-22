@@ -35,6 +35,9 @@
       ],
       "@testgen-eighteen/data-access": [
         "libs/data-access/src/index.ts"
+      ],
+      "@testgen-eighteen/data-services": [
+        "libs/data-services/src/index.ts"
       ]
     }
   },
